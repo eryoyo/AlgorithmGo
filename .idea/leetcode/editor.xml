@@ -43,6 +43,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/136_single-number.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/136_single-number.cpp" />
+              <option name="questionId" value="136" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/139_word-break.cpp">
           <value>
             <LeetcodeEditor>
@@ -88,6 +96,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/188_best-time-to-buy-and-sell-stock-iv.cpp" />
               <option name="questionId" value="188" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/190_reverse-bits.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/190_reverse-bits.cpp" />
+              <option name="questionId" value="190" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -163,6 +179,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/318_maximum-product-of-word-lengths.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/318_maximum-product-of-word-lengths.cpp" />
+              <option name="questionId" value="318" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/322_coin-change.cpp">
           <value>
             <LeetcodeEditor>
@@ -184,6 +208,22 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/337_house-robber-iii.cpp" />
               <option name="questionId" value="337" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/338_counting-bits.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/338_counting-bits.cpp" />
+              <option name="questionId" value="338" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/342_power-of-four.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/342_power-of-four.cpp" />
+              <option name="questionId" value="342" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -264,6 +304,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/455_assign-cookies.cpp" />
               <option name="questionId" value="455" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/461_hamming-distance.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/461_hamming-distance.cpp" />
+              <option name="questionId" value="461" />
             </LeetcodeEditor>
           </value>
         </entry>
