@@ -147,6 +147,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/240_search-a-2d-matrix-ii.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/240_search-a-2d-matrix-ii.cpp" />
+              <option name="questionId" value="240" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/241_different-ways-to-add-parentheses.cpp">
           <value>
             <LeetcodeEditor>
@@ -299,6 +307,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/448_find-all-numbers-disappeared-in-an-array.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/448_find-all-numbers-disappeared-in-an-array.cpp" />
+              <option name="questionId" value="448" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/455_assign-cookies.cpp">
           <value>
             <LeetcodeEditor>
@@ -328,6 +344,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/474_ones-and-zeroes.cpp" />
               <option name="questionId" value="474" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/48_rotate-image.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/48_rotate-image.cpp" />
+              <option name="questionId" value="48" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -448,6 +472,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/72_edit-distance.cpp" />
               <option name="questionId" value="72" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/769_max-chunks-to-make-sorted.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/769_max-chunks-to-make-sorted.cpp" />
+              <option name="questionId" value="780" />
             </LeetcodeEditor>
           </value>
         </entry>
