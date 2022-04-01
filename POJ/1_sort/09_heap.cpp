@@ -2,6 +2,9 @@
 // Created by eryo on 2021/8/5.
 //
 
+//根据一个列表来构建堆的时候是从1/2结点的位置开始倒序下沉
+//构建的复杂度为n
+
 #include<vector>
 
 using namespace std;
