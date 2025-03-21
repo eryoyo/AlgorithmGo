@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chenjialin/CLionProjects/AlgorithmGo/VOJ/01_basic/01_longest_shortest_word.cpp
+string
+-
+iostream
+-
+

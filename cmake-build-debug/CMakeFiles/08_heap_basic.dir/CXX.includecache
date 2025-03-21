@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chenjialin/CLionProjects/AlgorithmGo/bilibili/02_stack_queue/08_heap_basic.cpp
+stdio.h
+-
+queue
+-
+

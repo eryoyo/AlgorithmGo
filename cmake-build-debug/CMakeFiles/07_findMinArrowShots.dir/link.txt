@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/07_findMinArrowShots.dir/bilibili/03_greedy/07_findMinArrowShots.cpp.o -o 07_findMinArrowShots 

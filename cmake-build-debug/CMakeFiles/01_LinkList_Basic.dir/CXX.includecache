@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chenjialin/CLionProjects/AlgorithmGo/bilibili/01_LinkList/01_LinkList_Basic.cpp
+iostream
+-
+vector
+-
+

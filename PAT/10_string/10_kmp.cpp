@@ -10,6 +10,8 @@
  O(n + m):两个字符串的长度
  */
 
+// https://www.zhihu.com/question/21923021/answer/281346746
+
 //next数组
 /*
  假设有一个字符串，其中以i号为结尾的子串就是s[0...i]

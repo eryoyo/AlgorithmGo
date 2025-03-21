@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/88_merge-sorted-array.dir/leetcode/editor/cn/88_merge-sorted-array.cpp.o" -o 88_merge-sorted-array 

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/309_best-time-to-buy-and-sell-stock-with-cooldown.dir/leetcode/editor/cn/309_best-time-to-buy-and-sell-stock-with-cooldown.cpp.o" -o 309_best-time-to-buy-and-sell-stock-with-cooldown 

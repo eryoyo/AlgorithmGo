@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chenjialin/CLionProjects/AlgorithmGo/bilibili/04_recursion/03_subsets.cpp
+stdio.h
+-
+vector
+-
+

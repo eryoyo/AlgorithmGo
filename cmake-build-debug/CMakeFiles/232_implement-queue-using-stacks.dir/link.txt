@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/232_implement-queue-using-stacks.dir/leetcode/editor/cn/232_implement-queue-using-stacks.cpp.o" -o 232_implement-queue-using-stacks 

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chenjialin/CLionProjects/AlgorithmGo/VOJ/03_dp/03_the_sum_of_three.cpp
+iostream
+-
+vector
+-
+

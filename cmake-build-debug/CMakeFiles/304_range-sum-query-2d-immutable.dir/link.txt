@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/304_range-sum-query-2d-immutable.dir/leetcode/editor/cn/304_range-sum-query-2d-immutable.cpp.o" -o 304_range-sum-query-2d-immutable 

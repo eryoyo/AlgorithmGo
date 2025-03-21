@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/240_search-a-2d-matrix-ii.dir/leetcode/editor/cn/240_search-a-2d-matrix-ii.cpp.o" -o 240_search-a-2d-matrix-ii 

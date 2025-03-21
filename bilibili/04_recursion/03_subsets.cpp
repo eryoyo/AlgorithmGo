@@ -47,7 +47,7 @@ private:
 
 int main(){
     Solution s;
-    std::vector<int> vec = {0, 1, 2, 3, 4};
+    std::vector<int> vec = {0, 1, 2};
     std::vector<std::vector<int> > result =  s.subsets(vec);
     for(int i = 0; i < result.size(); i++){
         for(int j = 0; j < result[i].size(); j++){
